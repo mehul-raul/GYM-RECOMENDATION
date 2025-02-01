@@ -1,0 +1,266 @@
+name,ingredients,diet,calories,proteins,fats,carbs
+Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,152.0,1.0,5.9,24.0
+Boondi,"Gram flour, ghee, sugar",vegetarian,581.0,9.0,40.0,46.0
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,533.5372542380148,8.233977916941535,10.429101305408198,45.09408358060306
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,208.17397284269333,3.9438301887409173,3.3832703105878164,10.53786418672905
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,494.0530453723412,16.263371670915653,14.244124279683795,36.650207801784255
+Imarti,"Sugar syrup, lentil flour",vegetarian,586.0567945070004,17.09224169057724,22.4666420156125,72.86461522957151
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,182.81705837104693,19.62054953527378,7.311272361265284,66.51520688741351
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,573.283439414404,16.39989089070054,20.63082096414509,45.618613937681886
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,288.9237206422207,18.033538135680818,23.31562303451771,18.784384523406743
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,317.43146123527396,16.399309495607103,22.955539219099002,44.842570012911736
+Laddu,"Gram flour, ghee, sugar",vegetarian,255.3232620970766,10.811277781346297,19.3941459241298,52.500642335129946
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,201.63239737507655,3.7793143213592764,14.583465787336332,14.197687754571255
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,536.832954774903,9.752532070709833,20.409751292351235,10.589534522687762
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,438.27057838477106,15.575010628146165,2.350833685912218,18.86834294279263
+Phirni,"Rice, sugar, nuts",vegetarian,179.99488571539732,14.774577181023101,3.8170554089152846,67.3270153146672
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,463.79428648321664,15.719112843256385,2.9127076673636108,39.765072436732524
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,426.8467349428454,12.495826676538652,2.823101712175845,76.82524129994277
+Singori,"Khoa, coconut, molu leaf",vegetarian,487.4567053391125,11.827611820993527,29.47266149369823,11.51482383132335
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,364.352687599132,9.268714241485034,8.415497757752131,51.14116848342336
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,414.9638264667728,15.94437695750313,4.232810600318693,45.59958986726057
+Chhena jalebi,"Chhena, sugar, ghee",vegetarian,591.7831033276559,14.410322894682718,24.62402150572355,45.08673385230555
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,374.0231571607751,3.5322138722122767,21.221310450994576,79.99212461113832
+Chhena poda,"Sugar, chenna cheese",vegetarian,269.44474937518874,10.396816419265912,12.852121377753067,46.970958420561026
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,167.84584214768364,13.044453095922236,11.40852373781697,35.143843439135516
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,261.1636793382209,14.426461050638022,11.002845215296203,63.33654295840184
+Ledikeni,"Chhena, sugar, ghee",vegetarian,390.203595212529,7.415262869999269,26.47491927075809,35.799961151491345
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,103.4626020601386,7.70073449013566,12.832259040730525,26.338652261875175
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,458.06142803601546,12.655600393782272,9.047162933041635,22.56006309610389
+Mihidana,"Besan flour, sugar, ghee",vegetarian,302.6064368264824,10.089561106790168,25.05022882083526,42.66244672687625
+Misti doi,"Milk, jaggery",vegetarian,327.38500534176023,19.78894449293903,4.245202901577024,71.53973901301448
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,437.52202703027245,7.960739431586287,23.513976928159952,36.66203508687011
+Pithe,"Rice flour, wheat flour",vegetarian,297.3086218497382,5.964418550639073,20.470665181841667,72.71657831852434
+Rasabali,"Chenna, sweetened milk",vegetarian,184.85821731927678,13.490673403144378,2.060491095388678,50.567200634593505
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,365.4203893168015,9.445425542288348,22.939187416026655,11.310964820200661
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,191.29368158695422,3.6116767716360165,4.2803026625004,27.056919806310905
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,413.981568104847,4.241022017890506,26.82748307285831,70.1563660303857
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,162.9305730510597,8.230399148492797,12.052561052472445,60.81356491019338
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,367.54163118379535,2.827347816114356,10.313800648261562,62.10942848066591
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,418.18375839612384,10.018034646400734,8.590885764494034,75.68239195598187
+Chikki,"Peanuts, jaggery",vegetarian,199.3176373609979,6.080178917562274,18.984186370929898,58.01993448087086
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,354.12047560828853,12.208467989409604,9.528046361756026,50.614604530067616
+Double ka meetha,"Loaf bread, milk",vegetarian,379.6089929645762,15.65762556628558,29.10753920920547,59.53876372012071
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,434.8380074271644,9.392458147561978,10.724182219263554,57.45103906319417
+Kakinada khaja,"Wheat flour, sugar",vegetarian,266.81422139021083,3.0024751436861914,9.362205959268184,52.639498031488955
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,332.58334848585184,6.528056362805035,11.58006804871723,56.31859940520687
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,256.3627694039326,17.059874408479814,10.14227848033436,59.38489273855117
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,390.70238035688413,13.37917051496446,17.309466290326107,37.98548218944822
+Palathalikalu,"Rice flour, milk",vegetarian,501.7860749352922,12.548855128483995,27.58750634303098,37.83384875244714
+Poornalu,"Chana dal, jaggery",vegetarian,287.80405867730883,13.417457660821727,17.47614892230196,61.81906526360007
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,463.4527734982043,12.109984577917677,24.856101892433852,47.784863911032495
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,183.09005181999873,4.3586798364357024,19.622510059797033,58.72543019968167
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,199.67601755041466,5.3108804711379545,23.979575551515627,46.151408283041214
+Sheer korma,"Vermicelli pudding, milk",vegetarian,125.98069836943768,18.138812879156692,24.639067721843244,56.965841523201554
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,294.8004106245807,10.568654393113652,2.6321094666525418,10.914511828156122
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,484.66082056855487,10.432523128864034,28.28626862305527,38.619262454449164
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,435.0240792238769,4.800766737000974,1.604028505214317,16.156358993682105
+Basundi,"Sugar, milk, nuts",vegetarian,291.40119481850013,16.242065294582865,18.66633856338611,76.86093282082375
+Dhondas,"Cucumber, rava",vegetarian,398.1306738911646,15.339652515238773,14.43900021128942,77.40747595871103
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,387.5650423958316,12.310744643334159,21.093090880666573,73.43211244652969
+Mahim halwa,"Semolina, sugar",vegetarian,192.67058111862377,10.071727104869133,7.107331040017472,20.491179018738748
+Modak,"Rice flour, coconut, jaggery ",vegetarian,299.41984487290244,2.2289901789842888,10.65635671595758,39.004129648546595
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,499.9836573754003,8.631215477944348,11.463291493655635,19.382295040617674
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,526.9631425588052,12.75141785201559,16.497296352699166,62.57290399454428
+Sutar feni,"Maida, sugar, ghee",vegetarian,303.1455372029902,2.796904667712845,20.815046283417335,69.09390902108875
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,545.6935159747688,12.027289662506423,6.506793067704979,10.31804965899162
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,228.75320945356722,10.10840864623696,25.990344724590916,63.17030834076883
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,135.11875211495146,2.6144043331470312,22.964067465564174,69.39878329238962
+Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,427.09547759255724,11.021230864064052,14.457187250226013,56.10219507450531
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,215.6111225304715,5.037088267855727,9.248333185635117,76.97571653442463
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,189.76913635245006,8.601570969137326,4.31289527088526,25.086924285950566
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,571.0663413935825,11.4161808736227,9.530578544713869,31.876661611903472
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,337.8579783042881,14.652467750460051,16.794429775773814,11.367525840184735
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,169.29932341533268,3.24702598126394,6.529254187173115,31.012799443787255
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,207.51019624930376,14.40452737227575,9.92206369983195,32.763174609284206
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,300.43683969469373,6.353677881312529,12.848480987969312,73.93559481627025
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,300.0,15.0,10.0,40.0
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,241.5503325330329,9.483558438284014,19.07141329335789,75.41703547605634
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,402.4415291437141,2.127442145518696,21.4662015228773,54.45529692990869
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,491.73389304762793,11.180739981420611,4.0531912504187755,17.19685719596405
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,456.8657981185569,10.371848352856613,7.8041190084880006,16.85204074599639
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,324.4564880898114,12.77306781554591,21.61042463788038,29.10560899057164
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,356.1624087500371,13.523103928934141,1.2051757570527044,13.671092221942144
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,147.69706341816592,14.469140439538254,21.87729955111935,74.25210015303561
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,517.4821227805344,8.085737725927565,6.707027009255098,73.65445885161762
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,445.6891710675763,17.63634422527656,20.67372431626203,72.88277880904357
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,235.8664743210834,12.645896115738738,15.077653935118432,71.73025483812026
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,371.8513922623199,9.144957424649792,12.846018147634421,48.80477874116085
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,194.40932233992356,2.142807576295611,3.5972398825971057,54.27666536926527
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,415.4860119631142,8.585666467564776,23.565987218156483,78.01276539009993
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",vegetarian,298.8683074738805,4.892853879593403,20.227383321365792,64.65879856112817
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,429.4184959658528,3.489190944116305,11.988190174746585,53.83003760678967
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,528.9353423454465,14.672594947854417,18.069575944255856,42.95431271185033
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,480.7540547570828,14.466566433681368,14.728225002234272,22.004161944654165
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,134.68658689509192,3.83935585941072,10.115414108614754,15.20001024651194
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,341.42895791067536,7.997498788360639,21.24344452779784,16.818318525919178
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,542.5366772182066,9.034904823138744,12.033629370325382,46.51072737167469
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,378.4696961197135,7.2931212499945435,25.74298622216295,43.29800368598694
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",vegetarian,213.0335263722022,17.115233530393937,11.148653066910267,73.78985714687242
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,130.0552523691809,5.069161026969002,22.710469561589644,45.747587696800906
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,136.92314022294735,4.076601725951979,14.126487014948479,12.22145942772956
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,317.62371737548267,13.288311188772873,18.055135212111473,67.01319028389003
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",vegetarian,244.31713911210392,17.30353006590147,12.224722073044774,13.182303064236837
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",vegetarian,215.7921082293126,7.466430867773221,16.718813619547902,29.506154865690288
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",vegetarian,139.567417342027,5.569350186090089,10.299592680497051,38.0839363974236
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,385.9541557381567,4.333317018805869,8.200090288423556,59.00623952798054
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",vegetarian,473.0438671293751,12.992491159645779,11.734061691240836,59.17640972140151
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,410.505911565241,5.566025846527281,23.780304572270186,13.145128263765406
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,492.6887144257194,2.255474277610187,6.788117054358407,67.86951046679681
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",vegetarian,411.9225819939332,8.57679069275736,18.68486943618415,70.24734236191708
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,132.43481467146674,12.266902754421999,11.359039098870676,28.099009225453457
+Panjeeri,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,344.1044256927195,11.175133251317549,6.950418912653523,74.08842343181446
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,397.5470806475999,3.7979003948393233,25.329098435617027,28.58547771079599
+Paratha,"Wheat flour, butter, potato, coriander",vegetarian,591.300451608555,18.547899959639192,7.634225644100936,75.84762034402851
+Pattor,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,543.2975862889165,18.776348414177892,25.75864094955724,21.87315331322445
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",vegetarian,372.83162095704904,2.9215971164266064,4.254879269324891,67.07996540330046
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,126.44162436678732,15.373578497192717,20.30417714380697,28.272597981946486
+Rongi,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",vegetarian,220.34656166456276,17.19333121063982,21.48332888049931,38.974627136576714
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,537.3272767388319,19.891609986918112,27.36930162279067,28.714338744833416
+Sattu ki roti,"Sattu, atta, dough, filling, mustard oil",vegetarian,585.4715460355687,7.795591453332043,8.87427065386403,60.845025075190726
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",vegetarian,519.7174758072713,3.14162072172106,2.7897198526821834,11.106173504252606
+Shahi tukra,"Rose water, milk, white bread slices, saffron, almonds",vegetarian,177.080237764252,5.652561488266226,20.348670256203476,43.82500567948415
+Vegetable jalfrezi,"Baby corn, french beans, garam masala, ginger, carrot",vegetarian,457.4186848034791,10.314088667413433,15.59301585337718,59.82837639275076
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,300.0,25.0,10.0,5.0
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,210.60764414761252,12.556928617487417,11.128644335854185,77.48867455662193
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",vegetarian,487.38504618500986,14.7379049346035,9.457517137605251,18.948869964681098
+Avial,"Raw banana, elephant foot yam, long beans, tindora, urad dal",vegetarian,193.0923620612869,19.573929411497772,11.044337966764019,23.583037692954367
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",vegetarian,541.9760766365082,5.425114212164562,3.7407325538742864,28.160457716390695
+Currivepillai sadam ,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",vegetarian,133.328245425295,18.61295700861775,4.385935051228564,31.613421361737156
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,245.6578861588006,10.075261881244774,11.908574445018091,61.1671951355971
+Idiappam,"Rice flour, hot water, grated coconut",vegetarian,257.3189591675366,19.067854959051346,14.72120988340334,39.51400908601187
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,227.16271527739298,11.05213191471298,11.683744623659242,35.932898216948615
+Kanji,"Carrot, yellow mustard, red chilli, black salt",vegetarian,190.5248066057847,16.769818762609155,4.241509803033239,26.915654225313894
+Kaara kozhambu,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato",vegetarian,504.896025495068,16.776241312673573,7.926990724552227,54.83076187333285
+Keerai kootu,"Moong dal, chana dal, spinach, urad dal, coconut oil",vegetarian,299.71908563999557,5.639301624901828,3.3951714727489253,51.949969817316045
+Keerai masiyal,"Urad dal, curry leaves, sugar, mustard seeds, spinach",vegetarian,213.0598822954786,16.35227397598161,3.174248982527285,76.33200286923568
+Keerai sadam,"Greens, tomato, mustard seeds, fenugreek seeds",vegetarian,254.8612974595574,18.361034755629976,28.80866583245022,61.241222212525074
+Keerai poriyal,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",vegetarian,302.8168242512095,8.32636012875028,18.00000200258084,76.12419587660591
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,343.14614464436136,2.236680091771718,11.38574814311339,15.551765603233044
+Kootu,"Chana dal, urad dal, potato, beans, peas",vegetarian,465.95339156645724,18.141693803228637,4.165913728274875,13.049191969308884
+Kos kootu,"Moong dal, chana dal, cabbage, tamarind, curry leaves",vegetarian,449.63910498957506,18.272406883983344,2.5962395495558974,57.514942292298834
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",vegetarian,329.9784854653784,8.14544621257442,9.368718113665617,17.990345661473356
+Kothamali sadam,"Chana dal, urad dal, gooseberry, raw rice, curry leaves",vegetarian,575.8659428417659,13.565737234010033,16.513088347067352,15.906505869138819
+Kuzhakkattai,"Sesame oil, raw rice, jaggery, grated coconut",vegetarian,450.9897057162924,7.811054886113138,10.749804251156593,28.13658167412035
+Kuzhambu,"Pearl onions, urad dal, drumsticks, tomato, curry leaves",vegetarian,131.1482661966816,5.12280427996164,1.1461139539391598,76.73213401118504
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,453.30394715708104,2.730184926054356,17.86031017068489,60.398197296651475
+Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,344.8634157414249,14.29534473639344,1.2384083111030542,33.275408468406745
+Paniyaram,"Yogurt, ginger, curry leaves, baking soda, green chilli",vegetarian,241.42582479088878,9.039742120436948,24.54510876221363,71.9773039481797
+Papadum,"Lentils, black pepper, vegetable oil",vegetarian,233.27255655556309,5.880779997963661,11.099669394129771,56.33547976602982
+Paravannam,"Raw rice,  jaggery, milk",vegetarian,191.30306642415513,15.678502721565987,1.281435802913732,46.787894006726056
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,538.4107307966162,6.084101174371229,27.464723253477285,74.94939798983496
+Paruppu sadam,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds",vegetarian,180.14448020574088,7.583353759417203,6.842259574295673,10.166355211985294
+Pesarattu,"Green moong beans, rice flour",vegetarian,292.46202552877884,7.76864903896724,6.124877842297417,73.86624490378162
+Poriyal,"Chana dal, urad dal, beans, coconut, mustard",vegetarian,484.58088169203234,11.511707646171772,11.99777883302641,34.12203518889504
+Puli sadam,"Urad dal, lemon, tamarind, cooked rice, curry leaves",vegetarian,268.61033039875986,17.743025545153223,18.542494710773024,50.09955264456526
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,118.0828580871672,12.96829674485117,9.367846259836417,17.91756743638646
+Puttu,"Brown rice flour, sugar, grated coconut",vegetarian,246.56512911903886,7.051864913171764,24.624357685154887,59.94053078681551
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,184.3843418777378,17.84848303440308,10.859775188050293,74.56913907785004
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",vegetarian,459.46856752796117,17.767337698011264,4.496473629914217,22.895137898485306
+Sevai,"Sevai, parboiled rice, steamer",vegetarian,244.28385738535903,15.925917959532981,2.0902256608199172,56.69165601471476
+Thayir sadam,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",vegetarian,461.6929483303165,16.65204329688473,2.4515675500047873,17.383116020133254
+Theeyal,"Coconut, whole red beans, masala, sesame oil, tamarind",vegetarian,492.21118411279616,8.478024210107648,4.664364409248719,52.19942083654551
+Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",vegetarian,366.83952119624433,10.342945817896158,3.191587303387832,64.40287892552429
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,126.87637919693708,4.384636252753268,19.323694772632887,71.766309001012
+Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",non vegetarian,493.38782128509723,9.963157844549684,1.5048419444993693,72.59731822047026
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,288.30414194012906,3.7478353089222995,10.810661293447431,56.64141238703313
+Amti,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water",vegetarian,215.9429450948623,17.422634123935822,8.014677214400855,79.90616800599672
+Zunka,"Gram flour, mustard, garlic, turmeric, red chilli",vegetarian,254.8807287263371,15.379830826161664,1.7727587443089885,63.93550026288564
+Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",non vegetarian,163.22825628578966,10.22835232390605,1.294836320744845,61.007889420414536
+Saath,"Urad dal, potatoes, wheat flour, sooji",vegetarian,525.0561651517121,3.2907623611996386,2.5255817412440056,19.213396960586955
+Bajri no rotlo,"Wheat flour, pearl millet flour, hot water",vegetarian,460.8064619455734,10.914345566590644,25.811099094427124,52.69212744964649
+Coconut vadi,"Condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,511.7868307891691,15.627246210688048,18.963848844918044,63.38104857611555
+Bhakri,"Jowar flour, sesame seeds",vegetarian,297.31575827907994,17.840291064639253,28.214013505765628,24.821123275428754
+Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",non vegetarian,248.22141203546795,14.443256318374491,5.157752661904843,49.99928326044942
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",vegetarian,360.93956035990914,15.597938994883874,1.598075702289829,23.843022887790482
+Chevdo,"Citric acid, fry, raisins, sugar, chana daal",vegetarian,246.3485554416028,4.9974592566408,26.939933942040465,54.481715452202685
+Chorafali,"Urad dal, bengal gram flour, dried mango, baking soda, black salt",vegetarian,288.82016280751606,15.969224004550096,6.868243310749541,54.607868460244816
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,354.85818240538725,9.209072701537398,1.8435903425152915,18.265311957619524
+Daal Dhokli,"Whole wheat flour, dal, kokum, gur, bengal gram flour",vegetarian,380.6902301539116,6.164071411394996,11.487881304991774,53.3627769023656
+Kutchi dabeli,"Pav, aloo, peanut, pomegranate, star anise",vegetarian,108.60328354905049,18.453861728019398,19.89582384252201,42.86031488297724
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,333.36243132266156,7.180787037814636,3.0175745745798572,56.98275867954973
+Dalithoy,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",vegetarian,533.4691836648374,2.273753077343649,10.510290179161341,40.77954466061318
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",vegetarian,596.7717728471725,13.936576359546738,28.66239112847888,24.606583945584916
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, clarified butter",vegetarian,111.77498280372986,6.110452683299474,14.737429592884773,77.61038013826186
+Gatta curry,"Yogurt, besan, sauce, garam masala powder, gram flour",vegetarian,165.83823453406035,4.535921753576624,25.746141784385102,18.268576005846562
+Gud papdi,"Wheat flour, jaggery, clarified butter, sliced almonds",vegetarian,234.22611936303647,7.84431419167448,11.794351972152183,39.783426197243884
+Ghooghra,"Dry fruits, semolina, all purpose flour",vegetarian,145.7169435357469,9.709727773184119,21.612824127027977,63.59766176822153
+Handwo,"Bottle gourd, chana dal, cabbage, urad dal, toor dal",vegetarian,103.83553482144772,3.7887187579116333,17.877435925689433,32.68712775912036
+Halvasan,"Whole wheat rava, chia seed, lemon, edible gum, litre milk",vegetarian,437.5742685272638,5.255247610267121,29.493337031511544,41.59056051249961
+Jeera Aloo,"Green chilies, lemon juice, chili powder, boiled potatoes",vegetarian,214.36672955091836,15.458990185885796,8.56170272188821,56.32697987726677
+Kansar,"Wheat flour, cashews, rapeseed oil",vegetarian,550.6347163626754,14.010486754904623,21.99893487556934,19.567440068919673
+Keri no ras,"Mango, sugar",vegetarian,467.14643812582085,4.359003552699011,25.981965135802263,28.138509552081874
+Khakhra,"Whole wheat flour, low fat, bengal gram flour",vegetarian,568.6039230854454,17.328546351421544,23.19525821849768,48.897173199300546
+Khandvi,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili",vegetarian,103.02043642832228,10.805070760039968,14.735266828795531,30.49050881715334
+Kombdi vade,"Rice flour, urad dal, wheat flour, gram flour, turmeric",vegetarian,371.9096200909539,16.299510137207363,11.71894028594027,42.75480341366513
+Laapsi,"Cinnamon, jaggery, clarified butter, dry roasted",vegetarian,248.95608313385134,8.079979427810727,11.285853674922853,31.99907388006346
+Koshimbir,"Cucumber, carrot, tomatoes, cilantro",vegetarian,529.2435971693621,19.152483082822037,10.3118711302546,20.09273045454381
+Methi na Gota,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,453.1861167815055,16.004415681380827,3.497439340610474,77.95961289270775
+Mohanthal,"Rose water, pistachio, badam, bengal gram flour, saffron",vegetarian,581.1565390795861,2.710552221382363,29.505859848786265,35.09774765372113
+Muthiya,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",vegetarian,283.45636930515093,18.65440845870977,7.639188205997721,15.152022060101125
+Patra,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,193.7587009142788,5.412742023207521,5.3620076686222,38.17811347168774
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,463.40243036761143,2.1287838290261263,13.736249109815356,12.016590535648515
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",vegetarian,267.70955660990285,5.239097084523954,26.44807964534172,66.11954331841244
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",vegetarian,234.55365491234883,7.985970842094423,29.293012741879433,58.46192449404776
+Sev khamani,"Khaman, pomegranate, sev, powdered sugar, garlic",vegetarian,559.9617759148097,2.1769230483193347,27.909139284991692,45.914830904908314
+Sev tameta,"Sev, ginger, tomato, sugar",vegetarian,393.9663482660544,4.65552416375688,24.17465685058777,27.099739429501174
+Namakpara,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",vegetarian,429.1040467762699,13.114266265346185,23.37505085679964,13.488044126971698
+Sukhdi,"Whole wheat flour, gur, clarified butter",vegetarian,447.0367051543768,4.81554642408468,28.17351076048857,20.769010749890796
+Surnoli,"Rice flakes, yogurt, raw rice, jaggery, grated coconut",vegetarian,350.4678205315917,3.5874040848595046,9.704338084062412,45.50901128958371
+Thalipeeth,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",vegetarian,483.8360952386946,18.190134621354478,13.109353897120124,66.45041598572496
+Undhiyu,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas",vegetarian,417.6362398203559,2.707042221168167,21.5022993593493,70.0164204799367
+Veg Kolhapuri,"Gobi, potato, beans, khus khus, coconut",vegetarian,400.18908699565856,19.32599755716626,25.893607270420205,19.79737968144826
+Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non vegetarian,160.10230470904793,3.9027985871376245,20.96665885483427,20.599663009670884
+Lilva Kachori,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",vegetarian,527.1514105409035,4.776508481864247,27.668003133688334,43.117903374992075
+Mag Dhokli,"Moong beans, jaggery, red chillies, oil, salt",vegetarian,404.7680628932257,13.987711618840413,18.90078041438649,34.527253044766084
+Khichu,"Rice flour, sesame seeds, baking soda, peanut oil",vegetarian,118.17725952920463,11.190437690185828,17.93856989022749,69.39419050998444
+Thepla,"Chickpea flour, methi leaves, jowar flour, wheat flour",vegetarian,257.2585171556096,16.40035954945494,6.192608313880826,57.19976583112128
+Farsi Puri,"Semolina, clarified butter, oil, white flour, black pepper",vegetarian,497.2327080717261,2.8345804679231463,7.89993386515163,45.315860917447814
+Khaman,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour",vegetarian,192.44452329931235,13.84616564983248,28.178647903195365,41.262851222266065
+Turiya Patra Vatana sabji,"Ridge gourd, baking soda, sugar, grated coconut, peas",vegetarian,369.31200833558535,19.865370786656168,18.204029300222224,75.55442723105817
+Churma Ladoo,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,194.59041473628093,2.8046306068778533,9.164541075518649,61.44735575688754
+Cheera Doi,"Rice, mango, curd",vegetarian,171.11639133330738,13.57631336186601,14.679757352249661,54.69745241989712
+Gheela Pitha,"Sticky rice, rice flour, jaggery, orange rind",vegetarian,201.14378796686037,15.291319816629796,28.92508986265728,35.98534793355944
+Khar,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",vegetarian,501.1577217115151,12.42226328921623,28.112294883570137,55.431504164377564
+Kumol Sawul,"Rice, eggs, carrot, beetroot",non vegetarian,587.9540417318208,9.404442319325124,8.342379739127166,51.0590735841335
+Luchi,"Maida, vegetable oil",vegetarian,394.66002044843964,17.627493478062483,21.132114182358674,29.154570366093164
+Alu Pitika,"Potatoes, mustard oil, fish, green chillies",non vegetarian,165.36817219585927,18.431265576557117,23.373859196934035,37.71231889479553
+Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",non vegetarian,484.2022922995708,10.406842286160956,3.6660099892379687,72.821386633937
+Bengena Pitika,"Brinjal, onions, salt, sesame seeds, coriander",vegetarian,567.5916720469324,8.777990246568496,6.115898585499815,32.53153606768159
+Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",non vegetarian,321.5083716538003,17.777165248390475,27.2972074090301,29.039876081172437
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,476.4304892631337,4.4965305590254845,20.591973973665453,59.82830094237639
+Bora Sawul,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",vegetarian,116.29993847743239,13.957811394960743,3.0760798171044295,30.69038311245854
+Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,458.7097283970898,5.717306799491874,4.299635736867378,59.440678618523776
+Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",non vegetarian,332.9147039423937,8.286480975362537,14.276762671218483,78.36522620339075
+Goja,"Baking soda, clarified butter, oil, all purpose flour",vegetarian,278.11583108526384,8.2649704094494,10.448579657719973,56.70584485433602
+Hando Guri,"Jaggery, raisins",vegetarian,240.3524995388545,11.83205476035411,17.545827940416245,28.929069984672488
+Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",non vegetarian,470.55560781152536,4.386258217969092,18.75000545348442,23.089987830740007
+Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",non vegetarian,204.04698000550044,10.153230863916077,21.616551401533005,39.28227266057891
+Kabiraji,"Fish fillet, besan, lemon, mint, ginger",non vegetarian,277.351104132991,8.98267009569934,16.935219123129542,30.384257867206266
+Khorisa,"Fermented bamboo shoot, potato, ginger, green, mustard oil",vegetarian,547.4057848261684,18.80073831079871,2.1358907494114874,50.86303052671343
+Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",non vegetarian,593.3369802672001,2.2481091002281137,28.660843497159462,24.20575660784683
+Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",non vegetarian,324.8099773782006,10.03237539409329,19.660471992904952,72.05774823076007
+Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",non vegetarian,297.5119937804203,12.582971621198077,9.992132847959812,63.84956773007428
+Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",non vegetarian,255.71576954430338,16.60724784106904,10.753976264874705,72.29377886131545
+Mishti Chholar Dal,"Chana dal, fresh coconut, ginger, cinnamon, raisins",vegetarian,236.89400232707433,2.7402199598266765,11.56282606256033,36.500784685456885
+Pakhala,"Curd, cooked rice, curry leaves, dry chilli",vegetarian,143.22592561869465,19.51400208773367,21.947089856530155,76.89099351833406
+Pani Pitha,"Tea leaves, white sesame seeds, dry coconut, soaked rice",vegetarian,453.0447564260614,19.698783572614257,14.594927298164107,34.317648576682195
+Payokh,"Basmati rice, rose water, sugar, clarified butter, cardamom pods",vegetarian,376.66567140923354,17.410712908149527,25.998557289696887,14.61115265308063
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,542.5614215405601,18.485905184762586,19.74894254128331,73.96480513035684
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,517.9913719455817,16.875634412564324,26.297966882628195,36.876846977598525
+Shukto,"Green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,261.1349090163151,5.933558391210187,19.65357787446826,50.65272107004097
+Til Pitha,"Glutinous rice, black sesame seeds, gur",vegetarian,326.560266968173,11.24564208652931,27.33291021349204,79.43284008046415
+Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",vegetarian,134.134568915004,12.736605345201504,27.935166154209973,53.534526196914825
+Shufta,"Cottage cheese, dry dates, dried rose petals, pistachio, badam",vegetarian,577.5458835473198,12.969974549895321,28.049065877977057,19.435094627598907
+Mawa Bati,"Milk powder, dry fruits, arrowroot powder, all purpose flour",vegetarian,149.50565430100858,15.19708078811236,20.808842127802627,67.92648449301566
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,309.17917781321023,3.8607503704450226,22.952242158772247,73.1728834386513
+Paneer Butter Masala,"Paneer, butter, tomatoes, cream, spices",vegetarian,400.0,12.0,30.0,15.0
+Chicken Biryani,"Chicken, rice, spices, yogurt, ghee",non-vegetarian,550.0,25.0,20.0,65.0
+Rajma,"Kidney beans, tomatoes, spices",vegetarian,200.0,12.0,5.0,30.0
+Aloo Paratha,"Wheat flour, potatoes, ghee, spices",vegetarian,300.0,6.0,10.0,50.0
+Samosa,"Potatoes, peas, flour, spices, oil",vegetarian,262.0,3.0,17.0,24.0
+Dal Tadka,"Lentils, tomatoes, ghee, spices",vegetarian,150.0,9.0,5.0,22.0
+Chole,"Chickpeas, tomatoes, spices",vegetarian,230.0,12.0,8.0,33.0
+Butter Chicken,"Chicken, butter, tomatoes, cream, spices",non-vegetarian,490.0,24.0,35.0,15.0
+Idli,"Rice, urad dal",vegetarian,58.0,2.0,0.5,12.0
+Dosa,"Rice, urad dal, oil",vegetarian,168.0,3.0,8.0,22.0

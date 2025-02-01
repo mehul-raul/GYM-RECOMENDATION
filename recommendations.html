@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meal Recommendations</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}"
+</head>
+<body>
+    <h1>Meal Recommendations</h1>
+    
+    <h2>Macronutrient Breakdown</h2>
+    <img src="{{ url_for('static', filename='macros.png') }}" alt="Macronutrient Pie Chart">
+    
+    <p><strong>Calories to consume:</strong> {{ calories }} kcal</p>
+    <p><strong>Protein:</strong> {{ macros['protein'] }} grams</p>
+    <p><strong>Carbs:</strong> {{ macros['carbs'] }} grams</p>
+    <p><strong>Fats:</strong> {{ macros['fats'] }} grams</p>
+
+    <h2>Meal Recommendations</h2>
+    <table border="1">
+        <tr>
+            <th>Meal Name</th>
+            <th>Calories</th>
+            <th>Proteins (g)</th>
+            <th>Carbs (g)</th>
+            <th>Fats (g)</th>
+        </tr>
+        {% for meal in meals %}
+        <tr>
+            <td>{{ meal.name }}</td>
+            <td>{{ meal.calories }}</td>
+            <td>{{ meal.proteins }}</td>
+            <td>{{ meal.carbs }}</td>
+            <td>{{ meal.fats }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
